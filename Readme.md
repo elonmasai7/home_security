@@ -1,6 +1,3 @@
-Here's a professional README.md for your home security project:
-
-```markdown
 # Home Security System with Facial Recognition
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
