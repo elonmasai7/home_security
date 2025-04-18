@@ -131,14 +131,3 @@ MIT License - See [LICENSE](LICENSE) file
 
 **Important Note:** This system must comply with local privacy laws. Always inform visitors about surveillance.
 ```
-
-This README includes:
-1. Badges for quick project overview
-2. Clear installation instructions
-3. Configuration guidelines
-4. Usage examples
-5. Database documentation
-6. Troubleshooting section
-7. License and acknowledgments
-
-You can customize the sections about alerts/TODO features based on your actual implementation status. Would you like me to create any specific additional documentation?
