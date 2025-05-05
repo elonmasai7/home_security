@@ -9,7 +9,7 @@ from imutils.object_detection import non_max_suppression
 import imutils
 import time
 
-# Load known faces
+
 try:
     with open("known_faces.pkl", "rb") as f:
         known_encodings = pickle.load(f)
